@@ -1,4 +1,4 @@
 ['remote "mys3"']
-url = s3://dvc-temp/dataset
+url = s3://dvc-temp/myproj
 [core]
 remote = mys3
