@@ -1,0 +1,13 @@
+md5: 37b58454f6257dc21a0ae7d6a3842bdd
+locked: true
+deps:
+- path: small.txt
+  repo:
+    url: https://github.com/dmpetrov/dataset1
+    rev_lock: 5d963b8e9cbdf2ebd53370df3837baa976903698
+outs:
+- md5: dd2a0a668de4a2245fb0812d5cc26f50
+  path: small.txt
+  cache: true
+  metric: false
+  persist: false
