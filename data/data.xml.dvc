@@ -1,0 +1,13 @@
+md5: e36455c65d56afab89cbc6155f580bda
+locked: true
+deps:
+- path: data.xml
+  repo:
+    url: https://github.com/dmpetrov/dataset
+    rev_lock: b790d8eb5f57f90edab3fb01c34d8cc7dcb17035
+outs:
+- md5: 00daf69c443ad1142befc27416fc2bfb
+  path: data.xml
+  cache: true
+  metric: false
+  persist: false

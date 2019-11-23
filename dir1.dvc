@@ -1,0 +1,13 @@
+md5: 784ab56e4969af90ea6d1fd2736c6f7f
+locked: true
+deps:
+- path: dir1
+  repo:
+    url: https://github.com/dmpetrov/dataset
+    rev_lock: b790d8eb5f57f90edab3fb01c34d8cc7dcb17035
+outs:
+- md5: fee6e00d9d7f5f52e6ad25b674130ef1.dir
+  path: dir1
+  cache: true
+  metric: false
+  persist: false
